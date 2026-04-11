@@ -8,7 +8,7 @@
 > A deep learning project that forecasts department-wide weekly retail sales across 45 stores using a PyTorch ANN, analyzes markdown impact during holiday weeks, and deploys the solution as a Streamlit dashboard on AWS EC2.
 
 ## 🌐 Live Demo
-**Public URL:** [http://13.234.117.37:8501](http://13.234.117.37:8501)
+**Public URL:** [http://13.206.129.155:8501](http://13.206.129.155:8501)
 
 ---
 
@@ -220,7 +220,7 @@ nohup streamlit run app.py \
 ```
 
 - Security Group: Port 8501 open to 0.0.0.0/0
-- Live URL: http://13.234.117.37:8501
+- Live URL: http://13.206.129.155:8501
 
 ---
 
